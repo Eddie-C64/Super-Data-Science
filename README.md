@@ -1,5 +1,5 @@
 # Super-Data-Science
-This repository is a list of cases study of 6 different network types.
+This repository is a list of cases study of 6 different neural network types.
 1. Artificial Neural Networks
 2. Convolutional Neural Networks
 3. Recurrent Neural Networks
